@@ -1,4 +1,4 @@
-ssr.txt是wget 订阅地址(http://sub.yahaha.pro/link/7YIjsHBh6UeTiwDH?mu=0)获得的。
+firststep.txt是wget 订阅地址(http://sub.yahaha.pro/link/7YIjsHBh6UeTiwDH?mu=0)获得的。
 testspeed.sh负责将ssr.txt解析出ip
 decode.sh负责产生延迟
 
