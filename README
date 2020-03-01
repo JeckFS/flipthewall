@@ -1,5 +1,6 @@
+[环境] linux
 firststep.txt是wget 订阅地址(http://xxx.xxx.xxx/xxx/xxxx?xxx=xx)获得的。
-testspeed.sh负责将ssr.txt解析出ip
+testspeed.sh负责将firststep.txt解析出ip
 decode.sh负责产生延迟
 
 [用法]
